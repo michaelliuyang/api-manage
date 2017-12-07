@@ -78,7 +78,7 @@
 					</div>
                     <div class="form-group">
                         <label for="lastname" class="col-sm-2 control-label">登录密码<font color="red">*</font></label>
-                        <div class="col-sm-10"><input type="text" class="form-control" name="password" placeholder="请输入“登录密码”" maxlength="20" value="123456" ></div>
+                        <div class="col-sm-10"><input type="text" class="form-control" name="password" placeholder="请输入“登录密码”" maxlength="20" value="" ></div>
                     </div>
                     <div class="form-group">
                         <label for="lastname" class="col-sm-2 control-label">用户类型<font color="red">*</font></label>
